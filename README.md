@@ -51,7 +51,6 @@ if(condition){
 ##### TACOS
 - Ask the user which taco they want: chicken or steak.
 - Save the response in a variable.
-- **This one is different! Do you see why?** We will need to use an if/else if/else statement now. 
 - Write an if/else if/else statement
   - **IF** the user says chicken, tell them the chicken tacos are the best.
   - **ELSE IF** the user says steak, tell them the steak tacos are the best.
